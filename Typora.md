@@ -76,18 +76,26 @@
     * (颜色 + 大小 同时修改 )
     
       <font color= blue>我是蓝色</font>
-    <font color= red size = 4>我是红色</font>
-    <font color= green size =5 ><b>我是蓝色</b></font>
+      <font color= red size = 4>我是红色</font>
+      <font color= green size =5 ><b>我是蓝色</b></font>
     
       <span style='color:red'>This is red</span>
+      
+      :pushpin:  建议使用 span  style 标签,不适用 font标签,,在Html5中已经移除 
+      
+      ```html
+       <span style="color:red;background-color:yellow;font-size:20px;font-size:3em;margin:0;display:none;text-align:center;border-bottom：1px solid green"> `应用程序Application`</span>
+      ```
+      
+      
     
     <ruby> 漢 <rt> ㄏㄢˋ </rt> </ruby>
     
-
+  
   Ctrl</kbd>+<kbd>F9</kbd>
-
+  
   <span style="font-size:2rem; background:yellow;">**Bigger**</span>
-
+  
   
 
 ```html
