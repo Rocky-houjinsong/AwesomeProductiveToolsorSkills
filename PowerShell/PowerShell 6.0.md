@@ -4,17 +4,9 @@
 
 [toc]
 
------
-
-* 
-* 
-*  每个cmdlet的作用都很简单，如“get” 仅检索数据，“set” 仅建立或更改数据，“format”t 仅设置数据格式，“out” 仅将输出定向到指定的目标，所以应注意怎么**组合使用**
 
 
-
-
-
-xtsql3
+* 每个cmdlet的作用都很简单，如“get” 仅检索数据，“set” 仅建立或更改数据，“format”t 仅设置数据格式，“out” 仅将输出定向到指定的目标，所以应注意怎么**组合使用**
 
 * 每个 cmdlet 都具有一个**帮助文件**，可以通过键入以下内容访问它：get-help <cmdlet 名称> -detailed，如果只要查看简单的信息，就不要detailed这个参数，如果要查看更全面的技术信息，则需要把detailed更改为full 也可以直接使用help <cmdlet 名称>，或者直接在使用 <cmdlet 名称> -?
 
@@ -37,7 +29,7 @@ Get-Command *-Service   #查找 用于查看修改Windows服务的cmdlet 列表
 Get-Help Get-Service	# 查看帮助信息  help函数别名 man  故 man  Get-Service也是可以的
 man Get-Service
 Get-Process  -?
-Get-Help -Category Get-Service # 获取所有Get-Service帮助文章的列表
+Get-Help -Category Get-Service # 获取所有Get-Service帮助文章的列表  无法使用 ,该参数无效 ? 
 Get-Help Get-ChildItem -Detaile  # 显示详细信息
 Get-Help Get-ChildItem -Full		#显示帮助文章的所有内容
 Get-Help Get-ChileItem -Parameter *	  #获取参数的详细帮助
@@ -80,7 +72,7 @@ Location 缩写是l
 Command缩写是 cm
 Alias 缩写是al
 Get-Item 缩写是 gi
-Get-Loaction 缩写是 gl
+Get-Loaction #缩写是 gl   pwd  使用 get-help get-location -full  可以查到 ; 或者 get-alias 查看
 Get-Alias 缩写是 gal
 Set-Loaction 缩写是sl
 Set-Alias-Name gcm -ValueGet-Comman # 创建新别名
@@ -92,7 +84,7 @@ Get-Help about_command_syntax #  显示某一特别的帮助文章
 
 
 Get-Help registry # 获取有关Registry程序的帮助
-Get-Help -Category provider # 获取会话中的所有提供程序帮助文章的列表
+Get-Help -Category provider # 获取会话中的所有提供程序帮助文章的列表    失效?
 Get-Help Clear-Host -Online # 在线版本的帮助文档
 
 Get-Command 		# 显示在当前会话中可用的命令
@@ -231,59 +223,7 @@ help  Get-Command -ShowWindow
 
 
 
-### 打卡
 
-* 2022年12月9日09:41:06			任务2 内容是 **Get-Host**
-
-  2022年12月9日10:50:19	 		任务3 内容是 V3第一和最后一个视频的笔记  （shell基础知识、脚本编写的小技巧，如何导入问题）
-
-  2022-12-9 10:53:34 开始 复习 任务1 《PowerShell 实战指南》第一到第三章节内容知识  2022年12月9日11:14:14 复习结束
-
-  ​									【将 之前遗漏 和 需要 反复看的细节 ，直接截图粘贴到 文档里面】
-  
-* 12-10 休息
-
-* 12-11休息
-
-* 12-12工作 ，浪费一天的时间学直接连接数据库，后面发现很简单，脚本之家有博客已经指导了 难受 
-
-* 2022年12月13日08:56:54 任务1 复习第四章，学习第五章
-
-  2022-12-13 10:32:43  ，学了大概3个小时，主要就是快速学习 6、7、8、9、10、11章节，之后 进行笔记整理
-  
-* 2022-12-14 09:07:43    任务1 ，总结整理复现了 第五章和第六章的内容； 主要学习 宏观 提供程序内容和基础使用、管道 调节对象和导出命令，学习了里面的细节 ，同时 学到了，下载PoserShell社区的封装好的 新的模块； 收藏了一个新的网站，用来学习和开发 PoweShell脚本 
-
-  2022-12-14 10:45:45  **90min**
-  
-* 2022-12-15   学习C# WinForm开发
-
-* 2022-12-16 10:11:29  任务1  学习 和 整理 第六章 ，没有整理完，时间已经过了一个小时了；
-
-  需要 阅读新的章节，自己大致知道第六章的内容： 管道传输参数的方案、括号优先执行
-
-  2022-12-16 10:32:23  **80min**
-
-* 2022-12-17 周六休息
-
-* 2022-12-18 周日休息
-
-* 2022-12-21 周一 写需求 
-
-* 2022-12-20 09:24:01  任务1 粗略看26章，认真看 27,28章节 ；
-
-* 2022-12-22 09:28:38 周四   任务1  ，整理完 28的笔记 
-
-  2022-12-22 10:46:28
-  
-* 2022-12-**29** 08:58:30  任务1  复习前面所学  1,2,3，章节，学习 13章节 
-
-  2022-12-29 09:50:24 
-  
-* 2023-1-3 10:53:26 Powershell in Action 到1.2.3 page 48
-
-* 2023-1-4 15:16:32 下午  在V2ex上面添加 PowerShell交流群，给我新的 资源 ，需要学习 ；每天发布新的知识点 很不错 
-
-  2023-1-4 16:50:34 学完 
 
 ### 更改计算机状态
 
