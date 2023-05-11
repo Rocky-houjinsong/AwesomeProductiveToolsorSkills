@@ -6,7 +6,16 @@
 
 -----
 
-* 每个cmdlet的作用都很简单，如“get” 仅检索数据，“set” 仅建立或更改数据，“format”t 仅设置数据格式，“out” 仅将输出定向到指定的目标，所以应注意怎么**组合使用**
+* 
+* 
+*  每个cmdlet的作用都很简单，如“get” 仅检索数据，“set” 仅建立或更改数据，“format”t 仅设置数据格式，“out” 仅将输出定向到指定的目标，所以应注意怎么**组合使用**
+
+
+
+
+
+xtsql3
+
 * 每个 cmdlet 都具有一个**帮助文件**，可以通过键入以下内容访问它：get-help <cmdlet 名称> -detailed，如果只要查看简单的信息，就不要detailed这个参数，如果要查看更全面的技术信息，则需要把detailed更改为full 也可以直接使用help <cmdlet 名称>，或者直接在使用 <cmdlet 名称> -?
 
 ```powershell
