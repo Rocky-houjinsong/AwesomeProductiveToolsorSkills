@@ -1,3 +1,7 @@
+[toc]
+
+
+
 ### 介绍
 
 > Typora是一款 Markdown 格式的文本编辑器软件;
@@ -109,7 +113,7 @@
 - 在Typora中，只有普通/普通HTML标签将作为HTML内容呈现，自定义标签（如`<application>`）`<my-custom-component>`将被忽略（它们将在导出/打印时包括在内）。
 - 并非所有属性都受支持。`id`，`class`，`data-*`和渲染时HTML未知属性将不包括（他们将被列入当出口/打印）。
 - 基本上不允许使用脚本。`<style>`并且`<meta>`也不会应用（它们将在导出/打印时包括在内）。
-- 并非所有HTML标签/样式都可以导出为其他格式。导出为PDF，HTML或与HTML兼容的格式（例如EPub）将保留这些HTML内容，但是导出为其他格式（例如Word或LaTeX），这些HTML内容可能会变成纯文本。
+- 并非所有HTML标签/样式都可以导出为其他格式。导出为PDF，HTML或与HTML兼容的格式（例如EPub）将保留这些HTML内容，但是导出为其他格式（例如Word或LaTeX），这些HTML内容**可能会变成纯**文本。
 
   
 
