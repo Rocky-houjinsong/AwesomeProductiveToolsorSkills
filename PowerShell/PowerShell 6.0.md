@@ -615,7 +615,7 @@ Get-Command  Get-Eventlog -syntax
 
 ![image-20221208135118638](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/05/09/ee9767565ae18932a2a47492657b3116-image-20221208135118638-d8c017.png)
 
-![image-20221208135250136](PowerShell%206.0.assets/image-20221208135250136.png)
+![image-20221208135250136](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/600b1e9600d804c9a0b5269dc54986cb-image-20221208135250136-f1ce43.png)
 
 
 
@@ -626,7 +626,7 @@ Help Get-EventLog -full
 Help Get-EventLog -ShowWindow    # 在非Windows操作系统无法使用
 ```
 
-![image-20221222104021601](PowerShell%206.0.assets/image-20221222104021601.png)
+![image-20221222104021601](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/65d5ef8517fae2d24a74b8467a75262a-image-20221222104021601-e1a133.png)
 
 
 
@@ -670,7 +670,7 @@ Ctrl + J  直接导入模板
 
 
 
-![image-20221209103939728](PowerShell%206.0.assets/image-20221209103939728.png)
+![image-20221209103939728](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/5a122c890925426cf7297dd6cb36e12d-image-20221209103939728-051b5e.png)
 
 
 
@@ -678,15 +678,15 @@ Ctrl + J  直接导入模板
 
 ---
 
-![image-20221213090135212](PowerShell%206.0.assets/image-20221213090135212.png)
+![image-20221213090135212](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3d34d06d11ee0d45d7566a428bbb4935-image-20221213090135212-02d082.png)
 
 
 
-![image-20221213090249037](PowerShell%206.0.assets/image-20221213090249037.png)
+![image-20221213090249037](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/6b5bc07e73fd78dc0f45ac256b03074f-image-20221213090249037-9e820c.png)
 
-![image-20221213090435013](PowerShell%206.0.assets/image-20221213090435013.png)
+![image-20221213090435013](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/4bfeeae78d843f7bbd5c60a6c3a88a47-image-20221213090435013-c257e6.png)
 
-![image-20221213090631402](PowerShell%206.0.assets/image-20221213090631402.png)
+![image-20221213090631402](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/2481bfca0b969770ba387649771eb788-image-20221213090631402-788a86.png)
 
 ### 获取命令参数简称
 
@@ -700,15 +700,15 @@ Ctrl + J  直接导入模板
 
 ### 位置参数
 
-![image-20221213091227851](PowerShell%206.0.assets/image-20221213091227851.png)
+![image-20221213091227851](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/0f0fc92c360e43db15bc89dbb52c262d-image-20221213091227851-dcb1c7.png)
 
 
 
-![image-20221213091359436](PowerShell%206.0.assets/image-20221213091359436.png)
+![image-20221213091359436](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/f75f7bf79ad6569cf68454038d8a4992-image-20221213091359436-858405.png)
 
 
 
-![image-20221229091550447](PowerShell%206.0.assets/image-20221229091550447.png)x
+![image-20221229091550447](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/8bd10de776bc5573a06ad7ddf45912b2-image-20221229091550447-9d4efa.png)x
 
 ### 使用 Show-Command
 
@@ -716,7 +716,7 @@ Ctrl + J  直接导入模板
 
  用图形化方式 进行显式输入，学习PowerShell的最佳方式 
 
-![image-20221229093121235](PowerShell%206.0.assets/image-20221229093121235.png)
+![image-20221229093121235](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/9d0152726a099bbbaf39aee07d1c3942-image-20221229093121235-284177.png)
 
 ## 实际开发学到的技巧集合
 
@@ -762,7 +762,7 @@ Powershell 的提供程序PSProvider ，本质上是一个 **适配器**
 Get-PSProvider   #查看当前Shell中已经存在的提供程序
 ```
 
-![image-20221214091336383](PowerShell%206.0.assets/image-20221214091336383.png)
+![image-20221214091336383](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a236ae2d521a36094c08169924ac4c34-image-20221214091336383-57f9fe.png)
 
 ### PSProvider有哪些
 
@@ -786,11 +786,11 @@ Get-PSProvider   #查看当前Shell中已经存在的提供程序
 
 ### **当前PSProviders功能作用** 
 
-![image-20221214091442532](PowerShell%206.0.assets/image-20221214091442532.png)
+![image-20221214091442532](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/7eea8ec6e2ef295e3336f959c9058f93-image-20221214091442532-7eaa36.png)
 
 ### 扩展 ：模块 或 管理单元
 
-![image-20221214091524647](PowerShell%206.0.assets/image-20221214091524647.png)
+![image-20221214091524647](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/be572fd1ee5a192d80c0c5ee2c477cba-image-20221214091524647-86601e.png)
 
 ### 提供程序的使用
 
@@ -808,7 +808,7 @@ Get-PSProvider   #查看当前Shell中已经存在的提供程序
 Get-PSDrive
 ```
 
-![image-20221214092026192](PowerShell%206.0.assets/image-20221214092026192.png)
+![image-20221214092026192](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/ffdcadf66c1ea890b4905b071f395711-image-20221214092026192-c33208.png)
 
 
 
@@ -834,35 +834,35 @@ Get-Command -noun *Item*
 
 
 
-![image-20221214092559928](PowerShell%206.0.assets/image-20221214092559928.png)
+![image-20221214092559928](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/f0f7377380aa0bfbaef644e471ff7525-image-20221214092559928-a3c626.png)
 
-![image-20221214092618317](PowerShell%206.0.assets/image-20221214092618317.png)
+![image-20221214092618317](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/50ec6947598f19a097b4b4c7384b80cd-image-20221214092618317-66c4c7.png)
 
-![image-20221214092658952](PowerShell%206.0.assets/image-20221214092658952.png)
+![image-20221214092658952](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/65c4b4437ca411fb6626d6475bda0d63-image-20221214092658952-9b01e1.png)
 
-![image-20221214092738706](PowerShell%206.0.assets/image-20221214092738706.png)
-
-
+![image-20221214092738706](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/33b51fbe3551586a017f4ab9f94bc879-image-20221214092738706-89e7af.png)
 
 
 
-![image-20221214092918893](PowerShell%206.0.assets/image-20221214092918893.png)
+
+
+![image-20221214092918893](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a3cd7e6209eaa3c2d330d761043e166c-image-20221214092918893-825554.png)
 
 
 
-![image-20221214092928344](PowerShell%206.0.assets/image-20221214092928344.png)
+![image-20221214092928344](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/600c39a93948656b5c5bf533f04985ac-image-20221214092928344-0f5477.png)
 
 
 
-![image-20221214093037561](PowerShell%206.0.assets/image-20221214093037561.png)
+![image-20221214093037561](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/c7935d897e057fecf6ce665dc2a80b92-image-20221214093037561-90e533.png)
 
 ```powershell
 Get-ItemProperty -Path Env:\PSModulePath
 ```
 
-![image-20221214093431860](PowerShell%206.0.assets/image-20221214093431860.png)
+![image-20221214093431860](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/d8418382d9d50a092bafc5d45a7d3d7a-image-20221214093431860-a335f2.png)
 
-![image-20221214094030790](PowerShell%206.0.assets/image-20221214094030790.png)
+![image-20221214094030790](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/6dbb1437668d06305f37733ded29a894-image-20221214094030790-1ef619.png)
 
 
 
@@ -870,41 +870,41 @@ Get-ItemProperty -Path Env:\PSModulePath
 
 * 切换路径
 
-![image-20221214094118314](PowerShell%206.0.assets/image-20221214094118314.png)
+![image-20221214094118314](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/33980fda340519f87f1a6dee24042dd8-image-20221214094118314-3e9db8.png)
 
 * 新建项
 
-![image-20221214094214123](PowerShell%206.0.assets/image-20221214094214123.png)
+![image-20221214094214123](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3b952203f6d7fdf8a0513a54d29b8d36-image-20221214094214123-382b9c.png)
 
-![image-20221214094245432](PowerShell%206.0.assets/image-20221214094245432.png)
+![image-20221214094245432](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3a7cbf9aa675f6b84671d3e417f6bef6-image-20221214094245432-eb2a16.png)
 
 
 
-![image-20221214094258009](PowerShell%206.0.assets/image-20221214094258009.png)
+![image-20221214094258009](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/6825b40ad5d9b329f6e6637e86207774-image-20221214094258009-0cbcd3.png)
 
-![image-20221214094604800](PowerShell%206.0.assets/image-20221214094604800.png)
+![image-20221214094604800](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a9e5495edb99c1ea1bfdc8aee9ff0126-image-20221214094604800-fab0ac.png)
 
 ```powershell
 New-Item testFolser
 ```
 
-![image-20221214094744399](PowerShell%206.0.assets/image-20221214094744399.png)
+![image-20221214094744399](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/48d9d041d7c784071019025a7c3c33bd-image-20221214094744399-c2662e.png)
 
-![image-20221214094801124](PowerShell%206.0.assets/image-20221214094801124.png)
+![image-20221214094801124](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/f98e3f46faa383f842d49b569b4ff891-image-20221214094801124-d2f000.png)
 
-![image-20221214094812482](PowerShell%206.0.assets/image-20221214094812482.png)
+![image-20221214094812482](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/256cee1a9d88b2b4e902fd25f6cf8929-image-20221214094812482-9e76b1.png)
 
-![image-20221214094848055](PowerShell%206.0.assets/image-20221214094848055.png)
+![image-20221214094848055](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/5df27ade5c0b4fbfb3672afd8177bd53-image-20221214094848055-e60226.png)
 
-![image-20221214095004051](PowerShell%206.0.assets/image-20221214095004051.png)
-
-
-
-![image-20221214095021879](PowerShell%206.0.assets/image-20221214095021879.png)
+![image-20221214095004051](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/1a78ff66ac6c588a8fd3e21d66785978-image-20221214095004051-f59bb9.png)
 
 
 
-![image-20221214095051968](PowerShell%206.0.assets/image-20221214095051968.png)
+![image-20221214095021879](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b4c316b498f99d9e4d7025070f8acefe-image-20221214095021879-0a0ab1.png)
+
+
+
+![image-20221214095051968](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3abe5c51b7cdfd9608fa2ab8208c4ea1-image-20221214095051968-787a26.png)
 
 
 
@@ -912,19 +912,19 @@ New-Item testFolser
 
 
 
-![image-20221214095126346](PowerShell%206.0.assets/image-20221214095126346.png)
+![image-20221214095126346](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/1017c090debe3cabb82503cbe83a5528-image-20221214095126346-d27e72.png)
 
-![image-20221214095220629](PowerShell%206.0.assets/image-20221214095220629.png)
+![image-20221214095220629](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3829d3fcd51d7c1b88a5e51927b58fbb-image-20221214095220629-6293d2.png)
 
-![image-20221214095239367](PowerShell%206.0.assets/image-20221214095239367.png)
-
-
-
-![image-20221214095259745](PowerShell%206.0.assets/image-20221214095259745.png)
+![image-20221214095239367](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/f55b39ff27683f10065715be49cc1d92-image-20221214095239367-84488d.png)
 
 
 
-![image-20221214095308517](PowerShell%206.0.assets/image-20221214095308517.png)
+![image-20221214095259745](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/74539fef76c25363cb55d349d055ecf7-image-20221214095259745-9c1e8e.png)
+
+
+
+![image-20221214095308517](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3c5867c43adcdfca8e4e43620a1f423a-image-20221214095308517-21a7e0.png)
 
 
 
@@ -932,99 +932,99 @@ New-Item testFolser
 
 ---
 
-![image-20221214095759689](PowerShell%206.0.assets/image-20221214095759689.png)
+![image-20221214095759689](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/964c985bf682e5218481be14c4bc3620-image-20221214095759689-902912.png)
 
-![image-20221214095850917](PowerShell%206.0.assets/image-20221214095850917.png)
+![image-20221214095850917](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/002fdd9ea5aec0da0664a48b14cc1d0b-image-20221214095850917-92504f.png)
 
-![image-20221214104107102](PowerShell%206.0.assets/image-20221214104107102.png)
+![image-20221214104107102](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/cfa53364981dcb9001ac6d8f2317c276-image-20221214104107102-ceac9d.png)
 
 
 
-![image-20221214104119940](PowerShell%206.0.assets/image-20221214104119940.png)
+![image-20221214104119940](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/ce0c75d2d3536a1843380824b20f935e-image-20221214104119940-de7b15.png)
 
-![image-20221214104152069](PowerShell%206.0.assets/image-20221214104152069.png)
+![image-20221214104152069](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/e0cd0059e7edfee0d2a49086309f7fb6-image-20221214104152069-c9d682.png)
 
 
 
-![image-20221214104249237](PowerShell%206.0.assets/image-20221214104249237.png)
+![image-20221214104249237](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/c22085b0da2105a72db0096da0891984-image-20221214104249237-343017.png)
 
 
 
 
 
-![image-20221214101850059](PowerShell%206.0.assets/image-20221214101850059.png)
+![image-20221214101850059](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/751f2714ce425fee4489c9e774fe01cd-image-20221214101850059-4080fb.png)
 
-![image-20221214101921053](PowerShell%206.0.assets/image-20221214101921053.png)
+![image-20221214101921053](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b36e2fd661beed0a10841be36c2c481a-image-20221214101921053-ecc633.png)
 
 
 
-![image-20221214102018881](PowerShell%206.0.assets/image-20221214102018881.png)
+![image-20221214102018881](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/74fe5aa47d8f343fa0106727a2d6361d-image-20221214102018881-53417a.png)
 
 
 
-![image-20221214102122309](PowerShell%206.0.assets/image-20221214102122309.png)
+![image-20221214102122309](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/69ab732a0a98136cc4421b52ea12c072-image-20221214102122309-317d8c.png)
 
 
 
-![image-20221214102258436](PowerShell%206.0.assets/image-20221214102258436.png)
+![image-20221214102258436](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/7ac17a7c831215e36d564028d8718cc2-image-20221214102258436-913b93.png)
 
 
 
-![image-20221214102432288](PowerShell%206.0.assets/image-20221214102432288.png)
+![image-20221214102432288](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/2071ebfb762a9f57805424af3b072639-image-20221214102432288-5f9edf.png)
 
 
 
-![image-20221214102612694](PowerShell%206.0.assets/image-20221214102612694.png)
+![image-20221214102612694](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3413cf64223071ebc8819ff52c8680f1-image-20221214102612694-903ec8.png)
 
 
 
-![image-20221214102633660](PowerShell%206.0.assets/image-20221214102633660.png)
+![image-20221214102633660](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/c77d1735d965a6ee3e997fa6bf6e8f3f-image-20221214102633660-1572c8.png)
 
-![image-20221214102651390](PowerShell%206.0.assets/image-20221214102651390.png)
+![image-20221214102651390](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/0ce1e2254a2c7d8836ae3c99972000c1-image-20221214102651390-3f694b.png)
 
-![image-20221214102728165](PowerShell%206.0.assets/image-20221214102728165.png)
+![image-20221214102728165](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/f5dd9a884c368163cc8f6550e0b29d9a-image-20221214102728165-26f902.png)
 
 
 
-![image-20221214102805803](PowerShell%206.0.assets/image-20221214102805803.png)
+![image-20221214102805803](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/5555be6193f1ca6ee11864334fd3adb7-image-20221214102805803-22574b.png)
 
 
 
-![image-20221214102845079](PowerShell%206.0.assets/image-20221214102845079.png)
+![image-20221214102845079](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/90cab2876e87fb5009b58fa6be8792af-image-20221214102845079-2f4d12.png)
 
 
 
-![image-20221214102950502](PowerShell%206.0.assets/image-20221214102950502.png)
+![image-20221214102950502](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/afcaf5f95a61540a4a53c53ba54daee9-image-20221214102950502-eb5649.png)
 
 
 
-![image-20221214103037906](PowerShell%206.0.assets/image-20221214103037906.png)
+![image-20221214103037906](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/08f3c12f7eddf89336b1ae5d6f29eeeb-image-20221214103037906-9e0f0f.png)
 
 
 
 
 
-![image-20221214103453441](PowerShell%206.0.assets/image-20221214103453441.png)
+![image-20221214103453441](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a643933b6d3fc5511c48bec2e7e14a55-image-20221214103453441-d70176.png)
 
 
 
 
 
-![image-20221214103632743](PowerShell%206.0.assets/image-20221214103632743.png)
+![image-20221214103632743](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/df185e92765f2e47506bf7927b75361c-image-20221214103632743-7b82af.png)
 
 
 
-![image-20221214103657028](PowerShell%206.0.assets/image-20221214103657028.png)
+![image-20221214103657028](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/33977c63e3d76b625421476588f088ce-image-20221214103657028-3fd3c3.png)
 
 
 
-![image-20221214103714433](PowerShell%206.0.assets/image-20221214103714433.png)
+![image-20221214103714433](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/f51736f350f35f773f53b3468407c622-image-20221214103714433-9a38e3.png)
 
 
 
-![image-20221214103737646](PowerShell%206.0.assets/image-20221214103737646.png)
+![image-20221214103737646](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/024424b8624ee0ce193b233160104dd9-image-20221214103737646-4c455c.png)
 
-![image-20221214103841449](PowerShell%206.0.assets/image-20221214103841449.png)
+![image-20221214103841449](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b4d247c7b546ac3374551685c10fad78-image-20221214103841449-811afb.png)
 
 
 
@@ -1036,13 +1036,13 @@ New-Item testFolser
 
 ----
 
-![image-20221216101639091](PowerShell%206.0.assets/image-20221216101639091.png)
+![image-20221216101639091](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/2f700b6d4277b9c3cf75e62309cc2cc7-image-20221216101639091-e17ce2.png)
 
 
 
-![image-20221216101819416](PowerShell%206.0.assets/image-20221216101819416.png)
+![image-20221216101819416](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/c7edab3a18e649da86d07a6a13670d9c-image-20221216101819416-d71572.png)
 
-![image-20221216101841781](PowerShell%206.0.assets/image-20221216101841781.png)
+![image-20221216101841781](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/dc72c1bef1743dfa23aa0c572d6bd001-image-20221216101841781-993fb1.png)
 
 
 
@@ -1052,19 +1052,19 @@ New-Item testFolser
 
 -----
 
-![image-20221216102906735](PowerShell%206.0.assets/image-20221216102906735.png)
+![image-20221216102906735](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/ecfc144c653c874a3ae2b7df79f5e51c-image-20221216102906735-27a5c8.png)
 
-![image-20221216102915863](PowerShell%206.0.assets/image-20221216102915863.png)
+![image-20221216102915863](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/1250ed56dfd793317cb150a6d4ff800d-image-20221216102915863-ac40df.png)
 
-![image-20221216102924109](PowerShell%206.0.assets/image-20221216102924109.png)
+![image-20221216102924109](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/f491eb00a080386d6f6eec9e00dab31f-image-20221216102924109-af7b5b.png)
 
-![image-20221216102932688](PowerShell%206.0.assets/image-20221216102932688.png)
+![image-20221216102932688](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/671dfd4b89a98bcfd1aac66cf8c36d56-image-20221216102932688-ff3e81.png)
 
 ### 通过 —Math 使用正则表达式
 
 ---
 
-![image-20221216103001393](PowerShell%206.0.assets/image-20221216103001393.png)
+![image-20221216103001393](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a364a93e31f02e3914955fec63ce5222-image-20221216103001393-315e1f.png)
 
 
 
@@ -1072,13 +1072,13 @@ New-Item testFolser
 
 ---
 
-![image-20221216103024372](PowerShell%206.0.assets/image-20221216103024372.png)
+![image-20221216103024372](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/4ae903b0f61e1ba141c3d01ba4de7476-image-20221216103024372-45791a.png)
 
-![image-20221216103032649](PowerShell%206.0.assets/image-20221216103032649.png)
+![image-20221216103032649](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/8637d73d4ff529183e0ef30475b1614a-image-20221216103032649-c30819.png)
 
-![image-20221216103042229](PowerShell%206.0.assets/image-20221216103042229.png)
+![image-20221216103042229](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/296150d90bc38b8649ba25ba2ae57297-image-20221216103042229-c1a602.png)
 
-![image-20221216103049591](PowerShell%206.0.assets/image-20221216103049591.png)
+![image-20221216103049591](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a0040ce17c91f78d6e0ab3f9ae366404-image-20221216103049591-080d00.png)
 
 
 
@@ -1107,7 +1107,7 @@ Get-Process | Sort VM –desc | Select –first 10
 Get-Process | Sort VM -desc | ConvertTo-HTML | Out-File process.html
 ```
 
-![image-20221216094153033](PowerShell%206.0.assets/image-20221216094153033.png)
+![image-20221216094153033](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/82a9e98c6bf31e2e559dab9bf66fde8e-image-20221216094153033-b8cfe0.png)
 
 
 
@@ -1115,7 +1115,7 @@ Get-Process | Sort VM -desc | ConvertTo-HTML | Out-File process.html
 
 ---
 
-![image-20221216094403655](PowerShell%206.0.assets/image-20221216094403655.png)
+![image-20221216094403655](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/aa40afafe3baefd0f00c1e762719fc30-image-20221216094403655-8da3b6.png)
 
 
 
@@ -1123,11 +1123,11 @@ Get-Process | Sort VM -desc | ConvertTo-HTML | Out-File process.html
 
 ### ByValue
 
-![image-20221216094516156](PowerShell%206.0.assets/image-20221216094516156.png)
+![image-20221216094516156](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/992838703e271682766502657b11619b-image-20221216094516156-1e4580.png)
 
-![image-20221216094820064](PowerShell%206.0.assets/image-20221216094820064.png)
+![image-20221216094820064](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/cc0b58b198ee03ea78efc3cbc8613fc0-image-20221216094820064-9a4aac.png)
 
-![image-20221216094926569](PowerShell%206.0.assets/image-20221216094926569.png)
+![image-20221216094926569](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/70efd2dcb01dc9b1f3e02c8462048017-image-20221216094926569-0d8161.png)
 
 
 
@@ -1140,7 +1140,7 @@ Get-Process | Sort VM -desc | ConvertTo-HTML | Out-File process.html
  Get-Process -Name note* | Get-Member  #搜索以note开头的进程(记事本),并查看其中的成员和属性以及返回类型
 ```
 
-![image-20221216095642865](PowerShell%206.0.assets/image-20221216095642865.png)
+![image-20221216095642865](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/8aa2726d6911b550067aa9347e14d307-image-20221216095642865-016ae3.png)
 
 
 
@@ -1148,7 +1148,7 @@ Get-Process | Sort VM -desc | ConvertTo-HTML | Out-File process.html
 Get-Command Stop-Process -ShowCommandInfo
 ```
 
-![image-20221216100524594](PowerShell%206.0.assets/image-20221216100524594.png)
+![image-20221216100524594](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/381bda50a66b72fbc360953c11d791fb-image-20221216100524594-71788a.png)
 
 查看语法信息，知道会匹配到InputObject这个参数 ；
 
@@ -1164,7 +1164,7 @@ Get-Command Stop-Process -ShowCommandInfo
 >
 > 引出 备选方案
 
-![image-20221216100907415](PowerShell%206.0.assets/image-20221216100907415.png)
+![image-20221216100907415](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b14e36eb3746433746a103ca754b13a6-image-20221216100907415-d619db.png)
 
 
 
@@ -1479,25 +1479,25 @@ $_.Status 表示访问 $_ 占位符对象的Status属性
 
 * 通过.  引用源码 执行一段脚本 
 
-![image-20221222103326550](PowerShell%206.0.assets/image-20221222103326550.png)
+![image-20221222103326550](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/c4d2ac2071277652768facd4420b64d0-image-20221222103326550-2a8867.png)
 
 
 
 #### 20. ,逗号
 
-![image-20221222103637707](PowerShell%206.0.assets/image-20221222103637707.png)
+![image-20221222103637707](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/f58111fc79d67ad9e171511c5ff8cd89-image-20221222103637707-5626f8.png)
 
 
 
 #### 21. :冒号 
 
-![image-20221222103645130](PowerShell%206.0.assets/image-20221222103645130.png)
+![image-20221222103645130](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/de4c8a29b26b6c0604aae4a5c6009d3e-image-20221222103645130-8c0b48.png)
 
 
 
 #### 22 ！ 感叹号
 
-![image-20221222103712900](PowerShell%206.0.assets/image-20221222103712900.png)
+![image-20221222103712900](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/9a14324178e1073e7709215143c76d30-image-20221222103712900-6fdc68.png)
 
 #### 23. ^ 脱字符
 
@@ -1511,39 +1511,39 @@ $_.Status 表示访问 $_ 占位符对象的Status属性
 
 ### 运算符
 
-![image-20221222104148409](PowerShell%206.0.assets/image-20221222104148409.png)
+![image-20221222104148409](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/4843a43b2f2495aa44739a32fe080551-image-20221222104148409-45d736.png)
 
 
 
-![image-20221222104158639](PowerShell%206.0.assets/image-20221222104158639.png)
+![image-20221222104158639](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a18b0ba926222757d86a048230f4b834-image-20221222104158639-ee1eb0.png)
 
 
 
 ### 自定义属性 /列
 
-![image-20221222104225884](PowerShell%206.0.assets/image-20221222104225884.png)
+![image-20221222104225884](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/8144a5b615035dfc6f51c1e496bf21ca-image-20221222104225884-68676e.png)
 
-![image-20221222104302622](PowerShell%206.0.assets/image-20221222104302622.png)
+![image-20221222104302622](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/82c37ca8bc151b5ec9fdda2c595bc5da-image-20221222104302622-8b5810.png)
 
 
 
 ### 管道参数输入
 
-![image-20221222104339240](PowerShell%206.0.assets/image-20221222104339240.png)
+![image-20221222104339240](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/341872e81437fae64e9d68c2050d1ecc-image-20221222104339240-e233bd.png)
 
-![image-20221222104348593](PowerShell%206.0.assets/image-20221222104348593.png)
+![image-20221222104348593](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a3ffed4b0138f38bb894296f0a312ff4-image-20221222104348593-9d2925.png)
 
-![image-20221222104355256](PowerShell%206.0.assets/image-20221222104355256.png)
+![image-20221222104355256](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a5fb91a89a9e7928cd9e011c42ff500e-image-20221222104355256-738cb1.png)
 
 
 
 ### 使用$_ 
 
-![image-20221222104411752](PowerShell%206.0.assets/image-20221222104411752.png)
+![image-20221222104411752](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/632d3f0ee4cdd6c5b5c95f804f57163e-image-20221222104411752-d37d74.png)
 
 
 
-![image-20221222104420363](PowerShell%206.0.assets/image-20221222104420363.png)
+![image-20221222104420363](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/9126ca135fd7627e0060ddf1b18cdd66-image-20221222104420363-31c53e.png)
 
 
 
@@ -1555,7 +1555,7 @@ $_.Status 表示访问 $_ 占位符对象的Status属性
 
 ----
 
-![image-20230103094634739](PowerShell%206.0.assets/image-20230103094634739.png)
+![image-20230103094634739](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/096e94ca619838aade400885742bc694-image-20230103094634739-ad6082.png)
 
 
 
@@ -1574,11 +1574,11 @@ echo $env:windir #打印输出 windir目录内容
 
 ```
 
-![image-20230103095318218](PowerShell%206.0.assets/image-20230103095318218.png)
+![image-20230103095318218](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/558e839bc67557e324c69411dbc050f7-image-20230103095318218-60d8f0.png)
 
 
 
-**![image-20230103095339636](PowerShell%206.0.assets/image-20230103095339636.png)**
+**![image-20230103095339636](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b35eb9bc81011b35f6e0052ecd437f14-image-20230103095339636-9b876f.png)**
 
 ```powershell
 using assembly System.Windows.Forms
@@ -1601,7 +1601,7 @@ $form.ShowDialog()
 
 
 
-![image-20230103100138651](PowerShell%206.0.assets/image-20230103100138651.png)
+![image-20230103100138651](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/1413b786cd54d9fc32dcebf634e8a38b-image-20230103100138651-12ec25.png)
 
 
 
@@ -1621,7 +1621,7 @@ the range of command line, simple and advanced scripts, to real programs.命令�
 
 ==解释 shell的含义==
 
-![image-20230103101107048](PowerShell%206.0.assets/image-20230103101107048.png)
+![image-20230103101107048](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/e3dc44006650ac7cd8f6f7b06167b6b2-image-20230103101107048-731caa.png)
 
 > 在上一节中，我们将PowerShell称为命令行shell。你可能会问，什么是
 > shell?它和命令解释器有什么不同？脚本语言呢？如果
@@ -1639,7 +1639,7 @@ the range of command line, simple and advanced scripts, to real programs.命令�
 
 ==shell与脚本script的区别和联系==
 
-![image-20230103101648838](PowerShell%206.0.assets/image-20230103101648838.png)
+![image-20230103101648838](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3b45db1dc65d0fc76a53a8978d959f23-image-20230103101648838-431410.png)
 
 
 
@@ -1673,7 +1673,7 @@ the range of command line, simple and advanced scripts, to real programs.命令�
 
 ==因为Windows管理数量的复杂性，需要新的shell模型==
 
-![image-20230103102526931](PowerShell%206.0.assets/image-20230103102526931.png)
+![image-20230103102526931](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/2222a48064692a8e8a9dcd2aa29b5bbd-image-20230103102526931-90ddd0.png)
 
 另一个促使需要新的shell模型的因素是，随着Windows越来越多地获得
 子系统和特性，**用户在管理系统时必须考虑的问题的数量**
@@ -1683,7 +1683,7 @@ the range of command line, simple and advanced scripts, to real programs.命令�
 
 
 
-![image-20230103102735151](PowerShell%206.0.assets/image-20230103102735151.png)
+![image-20230103102735151](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/00320769a339ab6f18c86fecbb54c932-image-20230103102735151-25a0f8.png)
 
 
 
@@ -1693,9 +1693,9 @@ the range of command line, simple and advanced scripts, to real programs.命令�
 **公共信息模型(CIM)**。Microsoft最初对此标准的实现是
 称为**Windows管理工具(WMI)**。
 
-![image-20230103102923429](PowerShell%206.0.assets/image-20230103102923429.png)
+![image-20230103102923429](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/45e2ab9f11b79065c7111cfb340b3cc3-image-20230103102923429-dc73f0.png)
 
-![image-20230103102932007](PowerShell%206.0.assets/image-20230103102932007.png)
+![image-20230103102932007](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/7e13bd5128110d7979e220809f73aecd-image-20230103102932007-064570.png)
 
 虽然这个保理处理解决了总体的复杂性，并且在gui中很好地工作，但是它。
 **更难使用传统的基于文本的shell环境**。
@@ -1721,11 +1721,11 @@ Windows是一种API驱动的操作系统，与UNIX及其派生程序相比，
 
 同时 帮助系统自 v3不在有本地，可以使用-online 进行在线查看 具体信息；
 
-![image-20230103104154374](PowerShell%206.0.assets/image-20230103104154374.png)
+![image-20230103104154374](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/d280f02a5eab7262e045edf775967c44-image-20230103104154374-76ce2f.png)
 
-![image-20230103104236638](PowerShell%206.0.assets/image-20230103104236638.png)
+![image-20230103104236638](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/ce84c982c77ab43e8600e0d28d231078-image-20230103104236638-f79022.png)
 
-![image-20230103104357474](PowerShell%206.0.assets/image-20230103104357474.png)
+![image-20230103104357474](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/7cc0d7862cdac46891e6c0848784f104-image-20230103104357474-cf6140.png)
 
 对于大多数人来说，用于使用文件系统的PowerShell命令应该非常熟悉。
 用户。您可以使用cd(设置位置别名)命令在文件系统周围导航。档案
@@ -1750,11 +1750,11 @@ Powershell支持您所期望的大多数基本算术操作，包括浮动运算
 重点。
 可以使用重定向运算符将表达式的输出保存到文件中：
 
-![image-20230103104847134](PowerShell%206.0.assets/image-20230103104847134.png)
+![image-20230103104847134](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/7679b85e60250d8a732a53fe8eeca85b-image-20230103104847134-b8113f.png)
 
 还可以使用变量来存储命令的输出：
 
-![image-20230103104914686](PowerShell%206.0.assets/image-20230103104914686.png)
+![image-20230103104914686](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/5754e189216bd9a9377aed6a06615831-image-20230103104914686-2c1897.png)
 
 在本例中，您提取了文件信息对象集合的第二个元素。
 由get-child命令返回。您之所以能够这样做是因为您保存了输出。
@@ -1762,7 +1762,7 @@ Powershell支持您所期望的大多数基本算术操作，包括浮动运算
 
 
 
-![image-20230103105008621](PowerShell%206.0.assets/image-20230103105008621.png)
+![image-20230103105008621](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/36597f3f362b0a81967bec1f8b43f8c7-image-20230103105008621-aa1f0b.png)
 
 
 
@@ -1770,7 +1770,7 @@ Powershell支持您所期望的大多数基本算术操作，包括浮动运算
 
 考虑到PowerShell全部是关于对象的，基本运算符需要处理的不仅仅是数字。
 
-![image-20230103105234219](PowerShell%206.0.assets/image-20230103105234219.png)
+![image-20230103105234219](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/aee5af5aa40ec625f50734986aa9b65a-image-20230103105234219-1f081c.png)
 
 
 
@@ -1787,7 +1787,7 @@ Powershell支持您所期望的大多数基本算术操作，包括浮动运算
 
 ---
 
-![image-20230104152302300](PowerShell%206.0.assets/image-20230104152302300.png)
+![image-20230104152302300](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/620512ade9b8ed3e188a8d83fd4ff040-image-20230104152302300-9ded9e.png)
 
 
 
@@ -2681,17 +2681,17 @@ cd ~ # 返回到根目录
 
 ----
 
-![image-20221208105910122](PowerShell%206.0.assets/image-20221208105910122.png)
+![image-20221208105910122](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/14f9506517d734f373a89db2643d2e76-image-20221208105910122-1e1fee.png)
 
 
 
-![image-20221208110000054](PowerShell%206.0.assets/image-20221208110000054.png)
+![image-20221208110000054](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b76094d3dc70f190cab93b54df46bebf-image-20221208110000054-8a8425.png)
 
-![image-20221208110042840](PowerShell%206.0.assets/image-20221208110042840.png)
+![image-20221208110042840](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b08972450e522770fefc623e3c9ec37a-image-20221208110042840-469b60.png)
 
 
 
-![image-20221208110121078](PowerShell%206.0.assets/image-20221208110121078.png)
+![image-20221208110121078](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/0f42e38b0590df61ed727d5a154accec-image-20221208110121078-3157fa.png)
 
 ### foreach、% => ForEach-Object
 
@@ -2701,7 +2701,7 @@ cd ~ # 返回到根目录
 
 处理列表中每一项还可以用for、foreach、do和while等
 
-![image-20221208095509102](PowerShell%206.0.assets/image-20221208095509102.png)
+![image-20221208095509102](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/eb99bdd90f340e2dd825120f4b36dadb-image-20221208095509102-ddd774.png)
 
 
 
@@ -2774,17 +2774,17 @@ Start-Process "$PSHOME\powershell.exe" -Verb runas  #以管理员方式打开Pos
 
 指定的属性包含相同值的组对象。Group-Object 返回一个表，其中每个属性值对应一行，同时一个列显示具有该值的项目数
 
-![image-20221208113036340](PowerShell%206.0.assets/image-20221208113036340.png)
+![image-20221208113036340](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/ddb34f541a33692b3fa34393f762b772-image-20221208113036340-c8c94e.png)
 
 
 
 可以让返回的对象是个HashTable——key-value的键值对数组，指定-AsHashTable参数：
 
-![image-20221208113417299](PowerShell%206.0.assets/image-20221208113417299.png)
+![image-20221208113417299](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/d689ba065f72496f48c9686baea36df5-image-20221208113417299-580094.png)
 
 
 
-![image-20221208113533221](PowerShell%206.0.assets/image-20221208113533221.png)
+![image-20221208113533221](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/48ce9276ac60e48b9d22f5cb7d31249d-image-20221208113533221-31e34d.png)
 
 
 
@@ -2806,7 +2806,7 @@ cat Env:\PSModulePath
 $env:PSModulePath -split ";"
 ```
 
-![image-20221209104707182](PowerShell%206.0.assets/image-20221209104707182.png)
+![image-20221209104707182](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/fcf56f395d7e94b69c4bf2eee3913886-image-20221209104707182-7c7a55.png)
 
 后面2个 是微软专用的文件夹，不可以将自己编写的放到里面；
 
@@ -2832,15 +2832,15 @@ $env:PSModulePath -split ";"
 
 使用Measure-Object（measure）计算对象的数字属性以及字符串对象（如文本文件）中的字符数、单词数和行数。它计算某些类型对象的属性值。Measure-Object 执行三种类型测量，具体取决于命令中的参数。可以对对象计数并计算数字值的最小值、最大值、总和及平均值。对于文本对象，它可以计数并计算行数、单词数和字符数
 
-![image-20221208111902300](PowerShell%206.0.assets/image-20221208111902300.png)
+![image-20221208111902300](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b17e3603cff13b4087afcfb536a9996e-image-20221208111902300-4b4238.png)
 
-![image-20221208112126648](PowerShell%206.0.assets/image-20221208112126648.png)
+![image-20221208112126648](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/74e56afb5984fc4488ae3153a60805f2-image-20221208112126648-7385cf.png)
 
 
 
-![image-20221208112152310](PowerShell%206.0.assets/image-20221208112152310.png)
+![image-20221208112152310](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/65e364e3eaa4fd58767aba92d11916f4-image-20221208112152310-aeb416.png)
 
-![image-20221208112727433](PowerShell%206.0.assets/image-20221208112727433.png)
+![image-20221208112727433](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/526ef4fab6ba32b2e55739979e93600e-image-20221208112727433-1a6d1d.png)
 
 
 
@@ -2860,17 +2860,17 @@ $env:PSModulePath -split ";"
 
 对于输入的每一项，Where-Object都会根据{}中定义的**脚本块对输入进行计算**，**如果返回True，则输出**，否则不输出
 
-![image-20221208094603293](PowerShell%206.0.assets/image-20221208094603293.png)
+![image-20221208094603293](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/966f6088a3a4fac4aa0798b4d83c3516-image-20221208094603293-feb5bd.png)
 
 {}表示一个脚本块，可以输入一系列PowerShell命令，其中**$_代表当前输入对象**，在这个例子中，$_就代表一个文件项目。-gt是比较操作符，意思是大于，关于比较操作符的介绍如下
 
-![image-20221208094258417](PowerShell%206.0.assets/image-20221208094258417.png)
+![image-20221208094258417](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/36076478fa701ededbfd72c60b972c33-image-20221208094258417-792daf.png)
 
 PowerShell中比较操作符是用于对表达式进行比较的。默认情况比较操作符**不区分大小写**，如果想要**区分，需要使用-C前缀**，不需要区分的，使用-I前缀
 
 
 
-![image-20221208094822014](PowerShell%206.0.assets/image-20221208094822014.png)
+![image-20221208094822014](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/04d18734304ba24823caf5d93ab5e553-image-20221208094822014-434892.png)
 
 
 
@@ -2894,25 +2894,25 @@ PowerShell中比较操作符是用于对表达式进行比较的。默认情况�
 
 如果使用 Select-Object 来**选择指定属性**，则它会从输入对象中**复制**这些属性的值，并创建具有指定的属性和复制的值的新对象。使用 **Property** 参数指定您要选择的属性。或者，使用 First、Last、Unique、Skip 和 Index **参数**从输入对象数组中**选择特定对象**
 
-![image-20221208100135274](PowerShell%206.0.assets/image-20221208100135274.png)
+![image-20221208100135274](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/5b308fe03f4135ace7e2a4ece6f38abd-image-20221208100135274-3a9ffb.png)
 
-![image-20221208100252858](PowerShell%206.0.assets/image-20221208100252858.png)
-
-
-
-![image-20221208100712432](PowerShell%206.0.assets/image-20221208100712432.png)
-
-![image-20221208100901885](PowerShell%206.0.assets/image-20221208100901885.png)
-
-![image-20221208101122594](PowerShell%206.0.assets/image-20221208101122594.png)
-
-![image-20221208101220979](PowerShell%206.0.assets/image-20221208101220979.png)
+![image-20221208100252858](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/74b17e6e1fadde36a42370497c1f00b8-image-20221208100252858-6e4c64.png)
 
 
 
+![image-20221208100712432](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/465b6efe1400ad362e3e21f537fa5ae8-image-20221208100712432-57d893.png)
+
+![image-20221208100901885](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/80cdeec7f7c0d2a9f5b64c4f3f87f5d5-image-20221208100901885-5acc84.png)
+
+![image-20221208101122594](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/99a956c40cd68b0269e0b9fa2892eceb-image-20221208101122594-95efda.png)
+
+![image-20221208101220979](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/9d78cfb42622617d5f33fb03d4e5197c-image-20221208101220979-4d26c4.png)
 
 
-![image-20221208101347983](PowerShell%206.0.assets/image-20221208101347983.png)
+
+
+
+![image-20221208101347983](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/6ce33f913f66c55bb7fe31d0e36175ef-image-20221208101347983-202113.png)
 
 
 
@@ -2922,11 +2922,11 @@ PowerShell中比较操作符是用于对表达式进行比较的。默认情况�
 
 ----
 
-![image-20221213092637422](PowerShell%206.0.assets/image-20221213092637422.png)
+![image-20221213092637422](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3d5eaffc98fea186f2337978cf519b0c-image-20221213092637422-339626.png)
 
 
 
-![image-20221213092730854](PowerShell%206.0.assets/image-20221213092730854.png)
+![image-20221213092730854](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/d95d0d3e3d17d06b686a87bb7bb921c0-image-20221213092730854-9e16f0.png)
 
 
 
@@ -2944,13 +2944,13 @@ PowerShell中比较操作符是用于对表达式进行比较的。默认情况�
 
 如果某个对象不具有所指定的属性之一，则 cmdlet 会将该对象的属性值解释为 NULL，并将其放置在排序顺序的末尾。
 
-![image-20221208101731224](PowerShell%206.0.assets/image-20221208101731224.png)
+![image-20221208101731224](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/74f197630e1947f31b35e35cbdaef9d4-image-20221208101731224-d9e611.png)
 
 
 
-![image-20221208101900294](PowerShell%206.0.assets/image-20221208101900294.png)
+![image-20221208101900294](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/3f4d23238d05eecb12c837e6be748ee2-image-20221208101900294-3a45cc.png)
 
-![image-20221208102012391](PowerShell%206.0.assets/image-20221208102012391.png)
+![image-20221208102012391](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b952f7af702ed36b8aadaac0a70bedfb-image-20221208102012391-aed183.png)
 
 
 
@@ -2976,23 +2976,23 @@ PowerShell中比较操作符是用于对表达式进行比较的。默认情况�
 
 将 命令输出结果保存在文件或者变量中， 同时将其显示在控制台中 
 
-![image-20221208102426805](PowerShell%206.0.assets/image-20221208102426805.png)
+![image-20221208102426805](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/d8ac5573a1b3b0332e57d8647f0fe84c-image-20221208102426805-cf3c46.png)
 
-![image-20221208102511003](PowerShell%206.0.assets/image-20221208102511003.png)
+![image-20221208102511003](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/b2705a07398853e7ef8b903f2dde1aa8-image-20221208102511003-8493a8.png)
 
-![image-20221208102633193](PowerShell%206.0.assets/image-20221208102633193.png)
+![image-20221208102633193](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/310bd03ff25e15527e35e106737fee8e-image-20221208102633193-bdfd7d.png)
 
 
 
-![image-20221208102934359](PowerShell%206.0.assets/image-20221208102934359.png)
+![image-20221208102934359](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/37de13bfaae3f1df8bb99c5d680e1036-image-20221208102934359-d0fa93.png)
 
-![image-20221208102948479](PowerShell%206.0.assets/image-20221208102948479.png)
+![image-20221208102948479](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/73901bf2357f27965100fbdad703aade-image-20221208102948479-1c0aab.png)
 
 
 
 ### Out-File
 
-![image-20221208104536141](PowerShell%206.0.assets/image-20221208104536141.png)
+![image-20221208104536141](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/2e7711fc1f2e5dbf367a973a60032100-image-20221208104536141-aba656.png)
 
 
 
@@ -3004,7 +3004,7 @@ PowerShell中比较操作符是用于对表达式进行比较的。默认情况�
 
 用Export-Csv（别名是epcsv）将 Microsoft .NET Framework 对象转换为一系列以逗号分隔的、长度可变的 (CSV) 字符串，并将这些字符串保存到一个 CSV 文件中
 
-![image-20221208105412772](PowerShell%206.0.assets/image-20221208105412772.png)
+![image-20221208105412772](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/addaac9727e26c67a5e616d0e2e0c2b0-image-20221208105412772-5b36de.png)
 
 
 
@@ -3016,7 +3016,7 @@ PowerShell中比较操作符是用于对表达式进行比较的。默认情况�
 
 用ConvertTo-Html可以将Microsoft.Net Framework对象转换为可在Web浏览器中显示的HTML
 
-![image-20221208110320001](PowerShell%206.0.assets/image-20221208110320001.png)
+![image-20221208110320001](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/5d91b0aca97248abdb96c13719c345be-image-20221208110320001-e57650.png)
 
 
 
@@ -3028,13 +3028,13 @@ PowerShell中比较操作符是用于对表达式进行比较的。默认情况�
 
 ----
 
-用法：查找存储在对象属性中的对象的类型![image-20221208103903446](PowerShell%206.0.assets/image-20221208103903446.png)
+用法：查找存储在对象属性中的对象的类型![image-20221208103903446](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/28e36c3c21861271c096acdb92eda6e8-image-20221208103903446-476abe.png)
 
 
 
 
 
-![image-20221208103936577](PowerShell%206.0.assets/image-20221208103936577.png)
+![image-20221208103936577](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/dfa242cdc60e7c126b5d5c63ab32e435-image-20221208103936577-7d5914.png)
 
 
 
@@ -3046,7 +3046,7 @@ PowerShell中比较操作符是用于对表达式进行比较的。默认情况�
 
  获取 输出结果的唯一值
 
-![image-20221208104826324](PowerShell%206.0.assets/image-20221208104826324.png)
+![image-20221208104826324](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/a11eb0f588b18052c24dfcc1a83497b8-image-20221208104826324-94c331.png)
 
 
 
@@ -3056,7 +3056,7 @@ PowerShell中比较操作符是用于对表达式进行比较的。默认情况�
 
 
 
-![image-20221208111532479](PowerShell%206.0.assets/image-20221208111532479.png)
+![image-20221208111532479](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/0f78620704900b8cf868b2bf779f36a8-image-20221208111532479-4e90a2.png)
 
 ## 02Shell函数 Function
 
@@ -3986,7 +3986,7 @@ Function        Z:
 
 
 
-![image-20221214100400501](PowerShell%206.0.assets/image-20221214100400501.png)
+![image-20221214100400501](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/486ea9ee1a6804f81c2bf5e63dfb4e88-image-20221214100400501-ba422a.png)
 
 ### less -？不知道如何使用
 
@@ -4000,9 +4000,9 @@ less函数 ，需要先安装 ，在管理员权限下安装
 
 Powershell社区扩展具有一个名为“less”的方便函数，它使用less.exe的移植副本来实际处理分页，从而提供更完整的Unix样式function集。
 
-![image-20221214101447682](PowerShell%206.0.assets/image-20221214101447682.png)
+![image-20221214101447682](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/5cc1e510226f6d676e68595e629fb42f-image-20221214101447682-1b21e2.png)
 
-![image-20221214101506815](PowerShell%206.0.assets/image-20221214101506815.png)
+![image-20221214101506815](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/c84a535ca59384f8a924f64e17b3a364-image-20221214101506815-1f1152.png)
 
 
 
@@ -4721,7 +4721,7 @@ Get-Host			#显示有关 PowerShell 控制台的信息
 
 
 
-![image-20221209091019809](PowerShell%206.0.assets/image-20221209091019809.png)
+![image-20221209091019809](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/8e3e97b88b0c1d35f3c9a9d9a07ebd28-image-20221209091019809-68dd34.png)
 
 #### 调整 PowerShell 窗口的大小
 
@@ -4733,7 +4733,7 @@ $Win.Width  = 10
 $H.UI.RawUI.Set_WindowSize($Win)    # 将Windows PowerShell窗口的大小调整为 10 行（10 个字符）
 ```
 
-![image-20221209091354746](PowerShell%206.0.assets/image-20221209091354746.png)![image-20221209091416246](PowerShell%206.0.assets/image-20221209091416246.png)
+![image-20221209091354746](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/4355913dff2267286ecf9819aabc1fe2-image-20221209091354746-adcbaf.png)![image-20221209091416246](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/aa59665ee6142e701e64b0b0c8f2c5a6-image-20221209091416246-a2bbac.png)
 
 
 
@@ -4743,7 +4743,7 @@ $H.UI.RawUI.Set_WindowSize($Win)    # 将Windows PowerShell窗口的大小调整
 (Get-Host).Version | Format-List -Property *  #获取有关主机中运行的 Windows PowerShell 版本的详细信息  只能查看，不能修改
 ```
 
-![image-20221209091642150](PowerShell%206.0.assets/image-20221209091642150.png)
+![image-20221209091642150](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/2c5440493e33dfd4700c686e86fd8d0e-image-20221209091642150-df3c71.png)
 
 Get-Host  的属性 Version对象，发送到 Format-List ，使用参数 Property 将版本对象的所有属性和属性值显示出来
 
@@ -4753,7 +4753,7 @@ Get-Host  的属性 Version对象，发送到 Format-List ，使用参数 Proper
 (Get-Host).CurrentCulture | Format-List -Property * # 获取有关主机中运行的 Windows PowerShell 的当前区域性设置的详细信息
 ```
 
-![image-20221209092056755](PowerShell%206.0.assets/image-20221209092056755.png)
+![image-20221209092056755](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/c1c7185a6f68012a5aeb04689336654a-image-20221209092056755-76759b.png)
 
 #### 获取当前区域性的 DateTimeFormat
 
@@ -4771,7 +4771,7 @@ Get-Host  的属性 Version对象，发送到 Format-List ，使用参数 Proper
 
 
 
-![image-20221209092301139](PowerShell%206.0.assets/image-20221209092301139.png)
+![image-20221209092301139](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/22943e27caaf88098927c58ac840838b-image-20221209092301139-d57b6c.png)
 
 
 
@@ -4821,7 +4821,7 @@ $Host.PrivateData.ErrorBackgroundColor = "white"
 
 同样， `$PSCulture` 和 `$PSUICulture` 自动变量包含主机对象的 CurrentCulture 和 CurrentUICulture 属性包含的相同对象。 你可以交替使用这些功能
 
-![image-20221209093424228](PowerShell%206.0.assets/image-20221209093424228.png)
+![image-20221209093424228](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/c1c7566adfa751226da7971c37666026-image-20221209093424228-913a2e.png)
 
 
 
@@ -4938,7 +4938,7 @@ $Env:CommonProgramFiles
 .\MyScript.ps1
 ```
 
-![image-20221207100057252](PowerShell%206.0.assets/image-20221207100057252.png)
+![image-20221207100057252](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/47e811e5c33684cad30d568626da3a48-image-20221207100057252-46a130.png)
 
 
 
@@ -5007,19 +5007,19 @@ Write-Host "Hello,$args"
 
 保存后 通过控制台 执行脚本
 
-![image-20221207101343108](PowerShell%206.0.assets/image-20221207101343108.png)
+![image-20221207101343108](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/bd1cfad349fb464fabd74a8b87622026-image-20221207101343108-afaf41.png)
 
 默认情况下，传递给一个Powershell脚本的参数类型为数组
 
 
 
-![image-20221207101557434](PowerShell%206.0.assets/image-20221207101557434.png)
+![image-20221207101557434](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/0796c9946fb109e9f54c33195ae304e2-image-20221207101557434-9346de.png)
 
 上面的文本中包含多个连续的空格，可是当脚本把参数输出时却不存在连续的空格了。那是因为脚本会把文本根据白空格截断并转换成数组。如果不想文本被当成数组那就把它放在引号中。
 
-![image-20221207101740044](PowerShell%206.0.assets/image-20221207101740044.png)
+![image-20221207101740044](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/94e03b6fa42fc8f7737ba2a816c15cf5-image-20221207101740044-ee86d8.png)
 
-![image-20221207101807486](PowerShell%206.0.assets/image-20221207101807486.png)
+![image-20221207101807486](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/1377a596a5357c1af3c07a8240ca954d-image-20221207101807486-b6ea1b.png)
 
 在$args中逐个访问参数
 因为$args是一个数组，自然可以通过索引访问数组的每一个元素。可以将MyScript.sp1的内容改为
@@ -5039,7 +5039,7 @@ For ($i = 0; $i -lt $args.Count; $i++)
 
 ### 参数顺序的重要性 
 
-![image-20221207103130534](PowerShell%206.0.assets/image-20221207103130534.png)
+![image-20221207103130534](https://raw.githubusercontent.com/Rocky-houjinsong/PictureBed/main/img/2023/06/05/e8448e36aa6b76513114523f4bd673e2-image-20221207103130534-8cd4da.png)
 
 * 解决办法： 给参数指定名称 
 
